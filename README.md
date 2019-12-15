@@ -23,18 +23,11 @@ Was working on a project and looking for a simple tools in vanilla js allowing m
  
  ```js
  {
-  el: '',
-  classes: [],
-  placeholderText: ''
+  el: '.select', // css selector for element, should be a select it's mandatory
+  classes: [], // list of css class to add to the output, ex: classes: ['form-control', 'another-class']
+  placeholderText: '', // a placeholder text, default is: Start typing...
  }
  ```
- 
- * **el**: represent the css selector for the element your want to target, should be an <select>(select-one) tag otherwise nothing will happen. 
-  
- * **classes**: a list of classes to be added to the input (the one who hold the autocomplete list), for example if you page is using bootstrap it can be ```classes: ['form-control']```.
- 
- * **placeholderText** : define a placeholder text the default is ```Start typing...```.
- 
  
  ## Author
  

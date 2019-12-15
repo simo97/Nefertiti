@@ -35,4 +35,4 @@ Was working on a project and looking for a simple tools in vanilla js allowing m
  
  ## Contribution
  
- This is just a small tool design to be lightweigth ans simple to use, if you want to contribute please keep it in mind, every idea and optimization is welcome. Thanks
+ This is just a small tool designed to be lightweight and simple to use, if you want to contribute please keep it in mind, every idea and optimization is welcome. Thanks

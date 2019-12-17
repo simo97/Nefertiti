@@ -8,6 +8,16 @@ Was working on a project and looking for a simple tools in vanilla js allowing m
  Just import and init nefertiti object.
  
  ### import nefertiti code and init it
+ In HTML
+ ```hmtl
+ <select class='select'>
+  <option value='1'>value 1</option>
+  <option value='2'>value 2</option>
+  <option value='3'>an label</option>
+ </select>
+ ```
+ 
+ The JS
  ```js
  <script src='PATH_TO_NEFERTITI.js'></script>
  <script>
